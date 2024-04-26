@@ -1,0 +1,169 @@
+window{
+    background-image: url("icons/SokobanWindow.png");
+}
+
+button4242{
+    color:yellow;
+    background-color: blueviolet;
+    border-color:black;
+    border-width: 5px;
+    border-radius: 100%;
+    background-color: aqua;
+}
+
+
+
+#Map_Window{
+     background-image: url("icons/background4.jpg");
+    background-color: green;
+    border-color: darkmagenta;
+}
+#Map_Menu{
+     background-image: url("icons/SokobanWindow.png");
+
+}
+#EndOfGame{
+    background-image: none;
+    background-color: black;
+    background-image: url("icons/background.png");
+}
+#empty_square{
+ background-image: url("icons/square.png");
+
+}
+
+
+#border_square{
+    background-image: url("icons/brick-wall.png");
+
+}
+#destination_square{
+    background-image: url("icons/targeting.png");
+}
+#chest_square{
+     background-image: url("icons/chest.png");
+
+}
+#set_square{
+    background-image: url("icons/check-mark.png");
+
+}
+#player_square{
+    background-image: url("icons/fat.png");
+}
+#out_of_map_square{
+    background-color:green;
+}
+#down_Button{
+     border-radius: 15px;
+    border-width: 2px;
+    border-color: black;
+    background-image: url("icons/downArrow.png");
+    background-color: aqua;
+
+
+}
+
+#up_Button{
+     border-radius: 15px;
+    border-width: 2px;
+    border-color: black;
+    background-image: url("icons/upArrow.png");
+    background-color: aqua;
+
+
+}
+
+
+#left_Button{
+     border-radius: 15px;
+    border-width: 2px;
+    border-color: black;
+    background-image: url("icons/leftArrow.png");
+    background-color: aqua;
+
+
+}
+
+#right_Button{
+     border-radius: 15px;
+    border-width: 2px;
+    border-color: black;
+    background-image: url("icons/rightArrow.png");
+    background-color: aqua;
+
+}
+
+#restart_Button{
+     border-radius: 15px;
+    border-width: 2px;
+    background-image: url("icons/restart1.png");
+
+
+}
+#exit_Button{
+    border-radius: 15px;
+    border-width: 2px;
+    background-image: url("icons/cancel1.png");
+
+}
+#end_Button{
+     background-image: none;
+    border-radius: 15px;
+    border-width: 2px;
+    color:white;
+    background-color:black;
+    
+}
+#menu_Grid{
+    
+}
+#menu_Button{
+    font-size: 14px;
+    background-image: none;
+    border-radius: 15px;
+    border-width: 2px;
+    color:white;
+    background-color:crimson;
+    text-decoration-style: double;
+}
+#menu_Button:hover{
+    font-size: 15px;
+    background-color: firebrick;
+    border-radius: 15px;
+    border-width: 2px;
+    color:white;
+    text-decoration-style: double;
+}
+
+
+#next_Map{
+    background-image:url("icons/next_Map.png");
+      border-radius: 8px;
+}
+#prev_Map{
+    background-image: none;
+    background-image: url("icons/prev-Button.png");
+     border-radius: 8px;
+}
+#number_Button{
+     background-image: none;
+    font-size: 24px;
+    color: aliceblue;
+
+}
+#A{
+ background-image: none;
+
+}
+#none_Background{
+    color:ghostwhite;
+     background-image: none;
+
+}
+#MapInfo{
+     font-size: 12px;
+    color:crimson;
+     background-image: none;
+
+}
